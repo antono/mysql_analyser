@@ -1,0 +1,6 @@
+---
+  log: /tmp/mysql-analyser.log
+  hostname: localhost
+  username: root
+  port: 3306
+  password: secret

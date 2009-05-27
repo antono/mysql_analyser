@@ -1,0 +1,10 @@
+ChangeLog
+Manifest.txt
+README.txt
+COPYING
+Rakefile
+bin/mysql_analyser
+lib/mysql_analyser.rb
+lib/mysql_info.rb
+test/test_mysql_analyser.rb
+test/test_mysql_info.rb
